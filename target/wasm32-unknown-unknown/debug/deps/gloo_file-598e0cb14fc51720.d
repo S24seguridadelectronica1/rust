@@ -1,0 +1,11 @@
+/workspaces/rust/target/wasm32-unknown-unknown/debug/deps/libgloo_file-598e0cb14fc51720.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs
+
+/workspaces/rust/target/wasm32-unknown-unknown/debug/deps/libgloo_file-598e0cb14fc51720.rlib: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs
+
+/workspaces/rust/target/wasm32-unknown-unknown/debug/deps/gloo_file-598e0cb14fc51720.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/lib.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/blob.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_list.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/file_reader.rs:
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/gloo-file-0.2.3/src/object_url.rs:

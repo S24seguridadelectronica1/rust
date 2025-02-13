@@ -1,0 +1,5 @@
+/workspaces/rust/target/debug/deps/libpercent_encoding-0aa6f143ce1a290c.rmeta: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/percent-encoding-2.3.1/src/lib.rs
+
+/workspaces/rust/target/debug/deps/percent_encoding-0aa6f143ce1a290c.d: /home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/percent-encoding-2.3.1/src/lib.rs
+
+/home/codespace/.cargo/registry/src/index.crates.io-6f17d22bba15001f/percent-encoding-2.3.1/src/lib.rs:
